@@ -1,0 +1,7 @@
+{
+  "name": "AI Mind Mapper",
+  "description": "An AI-powered mind-mapping app that transforms text, voice, or PDF input into dynamic, auto-organizing mind maps for study, planning, and debate. It intelligently refines structure, merges ideas, and generates content like tasks, flashcards, or summaries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
